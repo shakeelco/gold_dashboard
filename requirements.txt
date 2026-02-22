@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+openpyxl
+numpy
+fpdf2
+reportlab
+streamlit-aggrid
